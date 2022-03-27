@@ -1,0 +1,8 @@
+PAD_INDEX = 0
+RPAD_INDEX = 2
+
+QUESTION_NUM = {
+    'ASSISTments2009': 111,
+    'ASSISTments2015': 101,
+    'STATICS': 1224,
+}
