@@ -112,10 +112,6 @@ conference : [ITS 2021 - 17th International Conference on Intelligent Tutoring S
 ```sh
 git clone https://github.com/14heeseok/DiKT_ITS21.git
 ```
-2. Run the codes
-```sh
-python3 main.py
-```
 
 
 
