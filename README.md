@@ -33,9 +33,9 @@ conference : [ITS 2021 - 17th International Conference on Intelligent Tutoring S
 - [DKVMN](https://dl.acm.org/doi/pdf/10.1145/3038912.3052580)
 - [Deep-IRT](https://arxiv.org/pdf/1904.11738.pdf)
 - Optional (Not in paper)
-    - [SAKT(not in paper)](https://arxiv.org/pdf/1907.06837.pdf)
-    - [SAINT(not in paper)](https://dl.acm.org/doi/pdf/10.1145/3386527.3405945)
-    - [MxKT(not in paper)](https://github.com/14heeseok/DiKT_ITS21/blob/main/network/MxKT.py) : MLP-Mixer([MLP-Mixer](https://arxiv.org/pdf/2105.01601.pdf), [ResMLP](https://arxiv.org/pdf/2105.03404.pdf), [gMLP](https://arxiv.org/pdf/2105.08050.pdf)) based KT model
+    - [SAKT](https://arxiv.org/pdf/1907.06837.pdf)
+    - [SAINT](https://dl.acm.org/doi/pdf/10.1145/3386527.3405945)
+    - [MxKT](https://github.com/14heeseok/DiKT_ITS21/blob/main/network/MxKT.py) : MLP-Mixer([MLP-Mixer](https://arxiv.org/pdf/2105.01601.pdf), [ResMLP](https://arxiv.org/pdf/2105.03404.pdf), [gMLP](https://arxiv.org/pdf/2105.08050.pdf)) based KT model
 
 ### Metrics
 
